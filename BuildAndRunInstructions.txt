@@ -1,0 +1,11 @@
+Project allows for a C++ file to be complied and ran in the latest release of Ubuntu with GCC7
+The C++ file is pulled from a simple GitHub I set up “git://github.com/llounsbury/dockertesting”
+
+
+To Build and Run
+
+
+	1: $ docker build -t test /directory of DOCKERFILE
+	2: $ docker run test
+	
+	
